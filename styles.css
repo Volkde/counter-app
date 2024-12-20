@@ -5,12 +5,12 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #dddf7c;
+    background-color: #edeea2;
   }
   
   .counter-container {
     text-align: center;
-    background: #dda733;
+    background: #daa128;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -28,7 +28,7 @@ body {
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    background-color: #ad230a;
+    background-color: #ca4129;
     color: rgb(211, 200, 200);
     cursor: pointer;
     transition: background-color 0.3s ease;
